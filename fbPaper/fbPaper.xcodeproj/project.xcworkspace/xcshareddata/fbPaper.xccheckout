@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5C21BCCD-BD58-4992-937D-F2C12D91DE69</string>
+	<key>IDESourceControlProjectName</key>
+	<string>fbPaper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EAD75A84-61E0-44F4-9342-0589E8BF651A</key>
+		<string>https://github.com/englysh/wk3-hw.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>fbPaper/fbPaper.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EAD75A84-61E0-44F4-9342-0589E8BF651A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/englysh/wk3-hw.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EAD75A84-61E0-44F4-9342-0589E8BF651A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EAD75A84-61E0-44F4-9342-0589E8BF651A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wk3-hw</string>
+		</dict>
+	</array>
+</dict>
+</plist>
